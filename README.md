@@ -1,16 +1,42 @@
-## Hi there 👋
+# Hi there, I'm Raghvendra 👋
 
-<!--
-**raghvendra253/raghvendra253** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 **3rd Year Undergrad @ IIT Kanpur**  
+Aspiring Software Development Engineer (SDE) | Creator | Lifelong Learner
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 👨‍💻 About Me
+
+- I'm a student currently in my 3rd year at IIT Kanpur.
+- I love to create new things and work on cool projects—big or small!
+- I'm passionate about learning, building, and collaborating with others.
+- I know a bit of Data Structures & Algorithms and am always eager to improve.
+- My journey is just getting started, and I'm excited to learn from the open-source community.
+
+---
+
+## 🛠️ Tech Stack
+
+- **Languages:** C++, Python
+
+---
+
+## 🌱 Currently Learning
+
+- Advanced DSA concepts
+- Building more beginner-friendly and impactful projects
+
+---
+
+## 🤝 Let's Connect!
+
+- Always open to collaboration on fun projects or learning together.
+- If you're a beginner too, let's grow together!
+
+---
+
+> “The journey of a thousand miles begins with a single step.” – Lao Tzu
+
+---
+
+![Raghvendra's GitHub Stats](https://github-readme-stats.vercel.app/api?username=raghvendra253&show_icons=true&hide_title=true)
