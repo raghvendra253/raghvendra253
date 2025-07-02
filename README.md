@@ -17,7 +17,7 @@ Aspiring Software Development Engineer (SDE) | Creator | Lifelong Learner
 
 ## 🛠️ Tech Stack
 
-- **Languages:** C++, Python
+- **Languages:** C++, Python, Machine Learning
 
 ---
 
