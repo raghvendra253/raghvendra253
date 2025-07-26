@@ -1,4 +1,4 @@
-# Hi there, I'm Raghvendra 👋
+# Hi there, I'm Raghvendra 
 
 🎓 **3rd Year Undergrad @ IIT Kanpur**  
 Aspiring Software Development Engineer (SDE) | Creator | Lifelong Learner
@@ -25,17 +25,6 @@ Aspiring Software Development Engineer (SDE) | Creator | Lifelong Learner
 
 - Advanced DSA concepts
 - Building more beginner-friendly and impactful projects
-
----
-
-## 🤝 Let's Connect!
-
-- Always open to collaboration on fun projects or learning together.
-- If you're a beginner too, let's grow together!
-
----
-
-> “The journey of a thousand miles begins with a single step.” – Lao Tzu
 
 ---
 
