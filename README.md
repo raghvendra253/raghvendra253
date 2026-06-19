@@ -1,13 +1,13 @@
 # Hi there, I'm Raghvendra 
 
-🎓 **3rd Year Undergrad @ IIT Kanpur**  
+🎓 **Final Year Undergrad @ IIT Kanpur**  
 Aspiring Software Development Engineer (SDE) | Creator | Lifelong Learner
 
 ---
 
 ## 👨‍💻 About Me
 
-- I'm a student currently in my 3rd year at IIT Kanpur.
+- I'm a student currently in my 4th year at IIT Kanpur.
 - I love to create new things and work on cool projects—big or small!
 - I'm passionate about learning, building, and collaborating with others.
 - I know a bit of Data Structures & Algorithms and am always eager to improve.
